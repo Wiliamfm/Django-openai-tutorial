@@ -8,7 +8,7 @@ from .models import Chat
 
 # Create your views here.
 
-OPENAI_KEY = "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"
+OPENAI_KEY = ""
 openai.api_key = OPENAI_KEY
 
 
